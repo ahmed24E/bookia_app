@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/images/logo.png" alt="Bookia Logo" width="120"/>
+ <img src="assets/images/logo.svg" alt="Bookia Logo" width="120"/>
 
 # 📚 Bookia
 
